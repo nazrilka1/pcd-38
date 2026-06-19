@@ -1,8 +1,8 @@
-# JUDUL PROJECT PCD
+# Klasifikasi Kesehatan Daun Tanaman Kopi (Sehat dan Sakit) Menggunakan Fitur GLCM Berbasis KNN, SVM, dan Random Forest
 ## Nama Anggota
-###  siA : F1D000000
-###  siB : F1D000000
-###  siC : F1D000000
+###  Nazril Hidayat : F1D02410020
+###  Azizurrifki : F1D02410037
+###  Reza Muthahhari Purnomo : F1D02410088
 
 # JANGAN LUPA KASI MARKDOWN YA
 # Project Overview
